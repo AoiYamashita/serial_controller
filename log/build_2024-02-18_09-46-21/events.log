@@ -1,0 +1,216 @@
+[0.000000] (-) TimerEvent: {}
+[0.001322] (controller) JobQueued: {'identifier': 'controller', 'dependencies': OrderedDict()}
+[0.001699] (-) TimerEvent: {}
+[0.002471] (controller) JobStarted: {'identifier': 'controller'}
+[0.102131] (-) TimerEvent: {}
+[0.203722] (-) TimerEvent: {}
+[0.305590] (-) TimerEvent: {}
+[0.407641] (-) TimerEvent: {}
+[0.509375] (-) TimerEvent: {}
+[0.610649] (-) TimerEvent: {}
+[0.713763] (-) TimerEvent: {}
+[0.815207] (-) TimerEvent: {}
+[0.918119] (-) TimerEvent: {}
+[1.020866] (-) TimerEvent: {}
+[1.122733] (-) TimerEvent: {}
+[1.224519] (-) TimerEvent: {}
+[1.989486] (-) TimerEvent: {}
+[2.091323] (-) TimerEvent: {}
+[2.193166] (-) TimerEvent: {}
+[2.294962] (-) TimerEvent: {}
+[2.396797] (-) TimerEvent: {}
+[2.498660] (-) TimerEvent: {}
+[2.600349] (-) TimerEvent: {}
+[2.702297] (-) TimerEvent: {}
+[2.804082] (-) TimerEvent: {}
+[2.905924] (-) TimerEvent: {}
+[3.007666] (-) TimerEvent: {}
+[3.109436] (-) TimerEvent: {}
+[3.211076] (-) TimerEvent: {}
+[3.312783] (-) TimerEvent: {}
+[3.414537] (-) TimerEvent: {}
+[3.516368] (-) TimerEvent: {}
+[3.618222] (-) TimerEvent: {}
+[3.720011] (-) TimerEvent: {}
+[3.821799] (-) TimerEvent: {}
+[3.923649] (-) TimerEvent: {}
+[4.025477] (-) TimerEvent: {}
+[4.127234] (-) TimerEvent: {}
+[4.229019] (-) TimerEvent: {}
+[4.330782] (-) TimerEvent: {}
+[4.432468] (-) TimerEvent: {}
+[4.534284] (-) TimerEvent: {}
+[4.636132] (-) TimerEvent: {}
+[4.738182] (-) TimerEvent: {}
+[4.840018] (-) TimerEvent: {}
+[4.941899] (-) TimerEvent: {}
+[5.043781] (-) TimerEvent: {}
+[7.027311] (-) TimerEvent: {}
+[7.129224] (-) TimerEvent: {}
+[7.230988] (-) TimerEvent: {}
+[7.332796] (-) TimerEvent: {}
+[7.434678] (-) TimerEvent: {}
+[7.536514] (-) TimerEvent: {}
+[7.638416] (-) TimerEvent: {}
+[7.740257] (-) TimerEvent: {}
+[7.842095] (-) TimerEvent: {}
+[7.943809] (-) TimerEvent: {}
+[8.045026] (-) TimerEvent: {}
+[8.146617] (-) TimerEvent: {}
+[8.248426] (-) TimerEvent: {}
+[8.349893] (-) TimerEvent: {}
+[8.451498] (-) TimerEvent: {}
+[8.552897] (-) TimerEvent: {}
+[8.654337] (-) TimerEvent: {}
+[8.755828] (-) TimerEvent: {}
+[8.857264] (-) TimerEvent: {}
+[8.958558] (-) TimerEvent: {}
+[9.060011] (-) TimerEvent: {}
+[9.162106] (-) TimerEvent: {}
+[9.263589] (-) TimerEvent: {}
+[9.364879] (-) TimerEvent: {}
+[9.466430] (-) TimerEvent: {}
+[9.567819] (-) TimerEvent: {}
+[9.669405] (-) TimerEvent: {}
+[9.770901] (-) TimerEvent: {}
+[9.872423] (-) TimerEvent: {}
+[9.973867] (-) TimerEvent: {}
+[10.075115] (-) TimerEvent: {}
+[10.176528] (-) TimerEvent: {}
+[10.277911] (-) TimerEvent: {}
+[10.379105] (-) TimerEvent: {}
+[10.480414] (-) TimerEvent: {}
+[10.582335] (-) TimerEvent: {}
+[10.684214] (-) TimerEvent: {}
+[10.786003] (-) TimerEvent: {}
+[10.887546] (-) TimerEvent: {}
+[10.989593] (-) TimerEvent: {}
+[11.091363] (-) TimerEvent: {}
+[11.192685] (-) TimerEvent: {}
+[11.294585] (-) TimerEvent: {}
+[11.396293] (-) TimerEvent: {}
+[11.497566] (-) TimerEvent: {}
+[11.598795] (-) TimerEvent: {}
+[11.700576] (-) TimerEvent: {}
+[11.802175] (-) TimerEvent: {}
+[11.903657] (-) TimerEvent: {}
+[12.005434] (-) TimerEvent: {}
+[12.107053] (-) TimerEvent: {}
+[12.208662] (-) TimerEvent: {}
+[12.310740] (-) TimerEvent: {}
+[12.418228] (-) TimerEvent: {}
+[12.522841] (-) TimerEvent: {}
+[12.627846] (-) TimerEvent: {}
+[12.729847] (-) TimerEvent: {}
+[12.834128] (-) TimerEvent: {}
+[12.935919] (-) TimerEvent: {}
+[13.038725] (-) TimerEvent: {}
+[13.141616] (-) TimerEvent: {}
+[13.243079] (-) TimerEvent: {}
+[13.344437] (-) TimerEvent: {}
+[13.445983] (-) TimerEvent: {}
+[13.547462] (-) TimerEvent: {}
+[13.650407] (-) TimerEvent: {}
+[13.753367] (-) TimerEvent: {}
+[13.854754] (-) TimerEvent: {}
+[13.956094] (-) TimerEvent: {}
+[14.057463] (-) TimerEvent: {}
+[14.158816] (-) TimerEvent: {}
+[14.260119] (-) TimerEvent: {}
+[14.361484] (-) TimerEvent: {}
+[14.462931] (-) TimerEvent: {}
+[14.564270] (-) TimerEvent: {}
+[14.667734] (-) TimerEvent: {}
+[14.770930] (-) TimerEvent: {}
+[14.873674] (-) TimerEvent: {}
+[14.976123] (-) TimerEvent: {}
+[15.078796] (-) TimerEvent: {}
+[15.181354] (-) TimerEvent: {}
+[15.284026] (-) TimerEvent: {}
+[15.385554] (-) TimerEvent: {}
+[15.486907] (-) TimerEvent: {}
+[15.588590] (-) TimerEvent: {}
+[15.690118] (-) TimerEvent: {}
+[15.791674] (-) TimerEvent: {}
+[15.892935] (-) TimerEvent: {}
+[15.994282] (-) TimerEvent: {}
+[16.095768] (-) TimerEvent: {}
+[16.197218] (-) TimerEvent: {}
+[16.298414] (-) TimerEvent: {}
+[16.399858] (-) TimerEvent: {}
+[16.501301] (-) TimerEvent: {}
+[16.602826] (-) TimerEvent: {}
+[16.704632] (-) TimerEvent: {}
+[16.805952] (-) TimerEvent: {}
+[16.907419] (-) TimerEvent: {}
+[17.009355] (-) TimerEvent: {}
+[17.110802] (-) TimerEvent: {}
+[17.212412] (-) TimerEvent: {}
+[17.314223] (-) TimerEvent: {}
+[17.415805] (-) TimerEvent: {}
+[17.517423] (-) TimerEvent: {}
+[17.525531] (controller) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/controller', 'build', '--build-base', '/home/yamashita/wifi_controll_ws/build/controller/build', 'install', '--record', '/home/yamashita/wifi_controll_ws/build/controller/install.log', '--single-version-externally-managed'], 'cwd': '/home/yamashita/wifi_controll_ws/src/controller', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'yamashita', 'SSH_CLIENT': '172.20.10.3 60752 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/yamashita/car_ws/install/coordinate_msg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/yamashita', 'OLDPWD': '/home/yamashita/wifi_controll_ws/src/controller/launch', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/yamashita/car_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'yamashita', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '4', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/yamashita/car_ws/install/mypkg:/home/yamashita/car_ws/install/coordinate_msg:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/yamashita/wifi_controll_ws/build/controller', 'SSH_CONNECTION': '172.20.10.3 60752 172.20.10.6 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/yamashita/wifi_controll_ws/build/controller/prefix_override:/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages:/home/yamashita/car_ws/install/mypkg/lib/python3.10/site-packages:/home/yamashita/car_ws/install/coordinate_msg/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/yamashita/car_ws/install/coordinate_msg'}, 'shell': False}
+[17.617813] (-) TimerEvent: {}
+[17.719266] (-) TimerEvent: {}
+[17.821428] (-) TimerEvent: {}
+[17.922753] (-) TimerEvent: {}
+[18.024389] (-) TimerEvent: {}
+[18.125829] (-) TimerEvent: {}
+[18.227026] (-) TimerEvent: {}
+[18.328242] (-) TimerEvent: {}
+[18.429537] (-) TimerEvent: {}
+[18.530717] (-) TimerEvent: {}
+[18.631987] (-) TimerEvent: {}
+[18.733442] (-) TimerEvent: {}
+[18.834759] (-) TimerEvent: {}
+[18.935976] (-) TimerEvent: {}
+[19.037648] (-) TimerEvent: {}
+[19.139124] (-) TimerEvent: {}
+[19.240371] (-) TimerEvent: {}
+[19.341588] (-) TimerEvent: {}
+[19.442753] (-) TimerEvent: {}
+[19.543972] (-) TimerEvent: {}
+[19.645193] (-) TimerEvent: {}
+[19.746364] (-) TimerEvent: {}
+[19.847539] (-) TimerEvent: {}
+[19.948702] (-) TimerEvent: {}
+[20.050062] (-) TimerEvent: {}
+[20.151275] (-) TimerEvent: {}
+[20.252555] (-) TimerEvent: {}
+[20.353844] (-) TimerEvent: {}
+[20.455086] (-) TimerEvent: {}
+[20.466194] (controller) StdoutLine: {'line': b'running egg_info\n'}
+[20.471205] (controller) StdoutLine: {'line': b'writing ../../build/controller/controller.egg-info/PKG-INFO\n'}
+[20.555415] (-) TimerEvent: {}
+[20.615962] (controller) StdoutLine: {'line': b'writing dependency_links to ../../build/controller/controller.egg-info/dependency_links.txt\n'}
+[24.530982] (-) TimerEvent: {}
+[24.533236] (controller) StdoutLine: {'line': b'writing entry points to ../../build/controller/controller.egg-info/entry_points.txt\n'}
+[24.536025] (controller) StdoutLine: {'line': b'writing requirements to ../../build/controller/controller.egg-info/requires.txt\n'}
+[24.538914] (controller) StdoutLine: {'line': b'writing top-level names to ../../build/controller/controller.egg-info/top_level.txt\n'}
+[24.541351] (controller) StdoutLine: {'line': b"reading manifest file '../../build/controller/controller.egg-info/SOURCES.txt'\n"}
+[24.544008] (controller) StdoutLine: {'line': b"writing manifest file '../../build/controller/controller.egg-info/SOURCES.txt'\n"}
+[24.545639] (controller) StdoutLine: {'line': b'running build\n'}
+[24.547055] (controller) StdoutLine: {'line': b'running build_py\n'}
+[24.548514] (controller) StdoutLine: {'line': b'running install\n'}
+[24.550211] (controller) StdoutLine: {'line': b'running install_lib\n'}
+[24.551649] (controller) StdoutLine: {'line': b'running install_data\n'}
+[24.553044] (controller) StdoutLine: {'line': b'running install_egg_info\n'}
+[24.554621] (controller) StdoutLine: {'line': b"removing '/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[24.556132] (controller) StdoutLine: {'line': b'Copying ../../build/controller/controller.egg-info to /home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info\n'}
+[24.559905] (controller) StdoutLine: {'line': b'running install_scripts\n'}
+[24.631328] (-) TimerEvent: {}
+[24.732899] (-) TimerEvent: {}
+[24.799442] (controller) StdoutLine: {'line': b"writing list of installed files to '/home/yamashita/wifi_controll_ws/build/controller/install.log'\n"}
+[24.833358] (-) TimerEvent: {}
+[24.934804] (-) TimerEvent: {}
+[25.036344] (-) TimerEvent: {}
+[25.107219] (controller) CommandEnded: {'returncode': 0}
+[25.136734] (-) TimerEvent: {}
+[25.238973] (-) TimerEvent: {}
+[25.343256] (-) TimerEvent: {}
+[25.446412] (-) TimerEvent: {}
+[25.549579] (-) TimerEvent: {}
+[25.650866] (-) TimerEvent: {}
+[25.767228] (-) TimerEvent: {}
+[25.847056] (controller) JobEnded: {'identifier': 'controller', 'rc': 0}
+[25.853591] (-) EventReactorShutdown: {}

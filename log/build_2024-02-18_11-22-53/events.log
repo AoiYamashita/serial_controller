@@ -1,0 +1,151 @@
+[0.000000] (-) TimerEvent: {}
+[0.003662] (controller) JobQueued: {'identifier': 'controller', 'dependencies': OrderedDict()}
+[0.004801] (controller) JobStarted: {'identifier': 'controller'}
+[0.097348] (-) TimerEvent: {}
+[0.199062] (-) TimerEvent: {}
+[0.301050] (-) TimerEvent: {}
+[0.403789] (-) TimerEvent: {}
+[0.505117] (-) TimerEvent: {}
+[0.607501] (-) TimerEvent: {}
+[0.710848] (-) TimerEvent: {}
+[0.812371] (-) TimerEvent: {}
+[0.914250] (-) TimerEvent: {}
+[1.016303] (-) TimerEvent: {}
+[1.117542] (-) TimerEvent: {}
+[1.218824] (-) TimerEvent: {}
+[1.320001] (-) TimerEvent: {}
+[1.421323] (-) TimerEvent: {}
+[1.522534] (-) TimerEvent: {}
+[1.623967] (-) TimerEvent: {}
+[1.725271] (-) TimerEvent: {}
+[1.826466] (-) TimerEvent: {}
+[1.927631] (-) TimerEvent: {}
+[2.028910] (-) TimerEvent: {}
+[2.130122] (-) TimerEvent: {}
+[2.231370] (-) TimerEvent: {}
+[2.332617] (-) TimerEvent: {}
+[2.433712] (-) TimerEvent: {}
+[2.534885] (-) TimerEvent: {}
+[2.636023] (-) TimerEvent: {}
+[2.737266] (-) TimerEvent: {}
+[2.838429] (-) TimerEvent: {}
+[2.939693] (-) TimerEvent: {}
+[3.040918] (-) TimerEvent: {}
+[3.142158] (-) TimerEvent: {}
+[3.243406] (-) TimerEvent: {}
+[3.344649] (-) TimerEvent: {}
+[3.445845] (-) TimerEvent: {}
+[3.547134] (-) TimerEvent: {}
+[3.648449] (-) TimerEvent: {}
+[3.749688] (-) TimerEvent: {}
+[3.851123] (-) TimerEvent: {}
+[3.952696] (-) TimerEvent: {}
+[4.055553] (-) TimerEvent: {}
+[4.156718] (-) TimerEvent: {}
+[4.258702] (-) TimerEvent: {}
+[4.360348] (-) TimerEvent: {}
+[4.461995] (-) TimerEvent: {}
+[4.565639] (-) TimerEvent: {}
+[4.666889] (-) TimerEvent: {}
+[4.768785] (-) TimerEvent: {}
+[4.870119] (-) TimerEvent: {}
+[4.971319] (-) TimerEvent: {}
+[5.072454] (-) TimerEvent: {}
+[5.173668] (-) TimerEvent: {}
+[5.274871] (-) TimerEvent: {}
+[5.376027] (-) TimerEvent: {}
+[5.477234] (-) TimerEvent: {}
+[5.578423] (-) TimerEvent: {}
+[5.679565] (-) TimerEvent: {}
+[5.780787] (-) TimerEvent: {}
+[5.881965] (-) TimerEvent: {}
+[5.983179] (-) TimerEvent: {}
+[6.084542] (-) TimerEvent: {}
+[6.185802] (-) TimerEvent: {}
+[6.286967] (-) TimerEvent: {}
+[6.388137] (-) TimerEvent: {}
+[6.489413] (-) TimerEvent: {}
+[6.590576] (-) TimerEvent: {}
+[6.691763] (-) TimerEvent: {}
+[6.793234] (-) TimerEvent: {}
+[6.894469] (-) TimerEvent: {}
+[6.995703] (-) TimerEvent: {}
+[7.097001] (-) TimerEvent: {}
+[7.198158] (-) TimerEvent: {}
+[7.299322] (-) TimerEvent: {}
+[7.400501] (-) TimerEvent: {}
+[7.501726] (-) TimerEvent: {}
+[7.603014] (-) TimerEvent: {}
+[7.704351] (-) TimerEvent: {}
+[7.805534] (-) TimerEvent: {}
+[7.906681] (-) TimerEvent: {}
+[8.007984] (-) TimerEvent: {}
+[8.109261] (-) TimerEvent: {}
+[8.210655] (-) TimerEvent: {}
+[8.312020] (-) TimerEvent: {}
+[8.413511] (-) TimerEvent: {}
+[8.508864] (controller) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/controller', 'build', '--build-base', '/home/yamashita/wifi_controll_ws/build/controller/build', 'install', '--record', '/home/yamashita/wifi_controll_ws/build/controller/install.log', '--single-version-externally-managed'], 'cwd': '/home/yamashita/wifi_controll_ws/src/controller', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'yamashita', 'SSH_CLIENT': '172.20.10.3 60752 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/yamashita/car_ws/install/coordinate_msg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/yamashita', 'OLDPWD': '/home/yamashita/wifi_controll_ws/src/controller/controller', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/yamashita/wifi_controll_ws/install:/home/yamashita/car_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'yamashita', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '4', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/yamashita/wifi_controll_ws/install/controller:/home/yamashita/car_ws/install/mypkg:/home/yamashita/car_ws/install/coordinate_msg:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/yamashita/wifi_controll_ws/build/controller', 'SSH_CONNECTION': '172.20.10.3 60752 172.20.10.6 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/yamashita/wifi_controll_ws/build/controller/prefix_override:/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages:/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages:/home/yamashita/car_ws/install/mypkg/lib/python3.10/site-packages:/home/yamashita/car_ws/install/coordinate_msg/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/yamashita/car_ws/install/coordinate_msg'}, 'shell': False}
+[8.517493] (-) TimerEvent: {}
+[8.618869] (-) TimerEvent: {}
+[8.720104] (-) TimerEvent: {}
+[8.821428] (-) TimerEvent: {}
+[8.922650] (-) TimerEvent: {}
+[9.023881] (-) TimerEvent: {}
+[9.125135] (-) TimerEvent: {}
+[9.226358] (-) TimerEvent: {}
+[9.327539] (-) TimerEvent: {}
+[9.428807] (-) TimerEvent: {}
+[9.529967] (-) TimerEvent: {}
+[9.631142] (-) TimerEvent: {}
+[9.732449] (-) TimerEvent: {}
+[9.833555] (-) TimerEvent: {}
+[9.934816] (-) TimerEvent: {}
+[10.035994] (-) TimerEvent: {}
+[10.137226] (-) TimerEvent: {}
+[10.238440] (-) TimerEvent: {}
+[10.339672] (-) TimerEvent: {}
+[10.440877] (-) TimerEvent: {}
+[10.542074] (-) TimerEvent: {}
+[10.643259] (-) TimerEvent: {}
+[10.744525] (-) TimerEvent: {}
+[10.845712] (-) TimerEvent: {}
+[10.946999] (-) TimerEvent: {}
+[11.048422] (-) TimerEvent: {}
+[11.149591] (-) TimerEvent: {}
+[11.184051] (controller) StdoutLine: {'line': b'running egg_info\n'}
+[11.189028] (controller) StdoutLine: {'line': b'writing ../../build/controller/controller.egg-info/PKG-INFO\n'}
+[11.191115] (controller) StdoutLine: {'line': b'writing dependency_links to ../../build/controller/controller.egg-info/dependency_links.txt\n'}
+[11.192893] (controller) StdoutLine: {'line': b'writing entry points to ../../build/controller/controller.egg-info/entry_points.txt\n'}
+[11.194414] (controller) StdoutLine: {'line': b'writing requirements to ../../build/controller/controller.egg-info/requires.txt\n'}
+[11.195976] (controller) StdoutLine: {'line': b'writing top-level names to ../../build/controller/controller.egg-info/top_level.txt\n'}
+[11.213701] (controller) StdoutLine: {'line': b"reading manifest file '../../build/controller/controller.egg-info/SOURCES.txt'\n"}
+[11.221634] (controller) StdoutLine: {'line': b"writing manifest file '../../build/controller/controller.egg-info/SOURCES.txt'\n"}
+[11.223012] (controller) StdoutLine: {'line': b'running build\n'}
+[11.224006] (controller) StdoutLine: {'line': b'running build_py\n'}
+[11.225426] (controller) StdoutLine: {'line': b'copying controller/serial.py -> /home/yamashita/wifi_controll_ws/build/controller/build/lib/controller\n'}
+[11.227860] (controller) StdoutLine: {'line': b'running install\n'}
+[11.230531] (controller) StdoutLine: {'line': b'running install_lib\n'}
+[11.236849] (controller) StdoutLine: {'line': b'copying /home/yamashita/wifi_controll_ws/build/controller/build/lib/controller/serial.py -> /home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages/controller\n'}
+[11.242386] (controller) StdoutLine: {'line': b'byte-compiling /home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages/controller/serial.py to serial.cpython-310.pyc\n'}
+[11.247253] (controller) StdoutLine: {'line': b'running install_data\n'}
+[11.249799] (-) TimerEvent: {}
+[11.252868] (controller) StdoutLine: {'line': b'running install_egg_info\n'}
+[11.267128] (controller) StdoutLine: {'line': b"removing '/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[11.270639] (controller) StdoutLine: {'line': b'Copying ../../build/controller/controller.egg-info to /home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info\n'}
+[11.281719] (controller) StdoutLine: {'line': b'running install_scripts\n'}
+[11.350019] (-) TimerEvent: {}
+[11.444619] (controller) StdoutLine: {'line': b'Installing serial script to /home/yamashita/wifi_controll_ws/install/controller/lib/controller\n'}
+[11.447913] (controller) StdoutLine: {'line': b"writing list of installed files to '/home/yamashita/wifi_controll_ws/build/controller/install.log'\n"}
+[11.450382] (-) TimerEvent: {}
+[11.552248] (-) TimerEvent: {}
+[11.653671] (-) TimerEvent: {}
+[11.725623] (controller) CommandEnded: {'returncode': 0}
+[11.753895] (-) TimerEvent: {}
+[11.857375] (-) TimerEvent: {}
+[11.958793] (-) TimerEvent: {}
+[12.060313] (-) TimerEvent: {}
+[12.161712] (-) TimerEvent: {}
+[12.263023] (-) TimerEvent: {}
+[12.367570] (-) TimerEvent: {}
+[12.394099] (controller) JobEnded: {'identifier': 'controller', 'rc': 0}
+[12.400458] (-) EventReactorShutdown: {}

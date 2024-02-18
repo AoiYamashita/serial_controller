@@ -1,0 +1,21 @@
+[13.782s] Invoking command in '/home/yamashita/wifi_controll_ws/src/controller': PYTHONPATH=/home/yamashita/wifi_controll_ws/build/controller/prefix_override:/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/controller build --build-base /home/yamashita/wifi_controll_ws/build/controller/build install --record /home/yamashita/wifi_controll_ws/build/controller/install.log --single-version-externally-managed
+[16.796s] running egg_info
+[16.801s] writing ../../build/controller/controller.egg-info/PKG-INFO
+[16.802s] writing dependency_links to ../../build/controller/controller.egg-info/dependency_links.txt
+[16.804s] writing entry points to ../../build/controller/controller.egg-info/entry_points.txt
+[16.805s] writing requirements to ../../build/controller/controller.egg-info/requires.txt
+[16.807s] writing top-level names to ../../build/controller/controller.egg-info/top_level.txt
+[16.824s] reading manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[16.953s] writing manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[16.954s] running build
+[16.956s] running build_py
+[16.958s] running install
+[16.964s] running install_lib
+[16.974s] running install_data
+[16.979s] running install_egg_info
+[16.993s] removing '/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info' (and everything under it)
+[16.997s] Copying ../../build/controller/controller.egg-info to /home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info
+[17.219s] running install_scripts
+[17.415s] Installing serial script to /home/yamashita/wifi_controll_ws/install/controller/lib/controller
+[17.419s] writing list of installed files to '/home/yamashita/wifi_controll_ws/build/controller/install.log'
+[17.700s] Invoked command in '/home/yamashita/wifi_controll_ws/src/controller' returned '0': PYTHONPATH=/home/yamashita/wifi_controll_ws/build/controller/prefix_override:/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/controller build --build-base /home/yamashita/wifi_controll_ws/build/controller/build install --record /home/yamashita/wifi_controll_ws/build/controller/install.log --single-version-externally-managed

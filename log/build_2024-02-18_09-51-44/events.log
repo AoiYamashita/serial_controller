@@ -1,0 +1,5 @@
+[0.000000] (-) TimerEvent: {}
+[5.821941] (controller) JobQueued: {'identifier': 'controller', 'dependencies': OrderedDict()}
+[5.822537] (-) TimerEvent: {}
+[5.823596] (controller) JobSkipped: {'identifier': 'controller'}
+[5.824228] (-) EventReactorShutdown: {}

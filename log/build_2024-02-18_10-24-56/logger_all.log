@@ -1,0 +1,130 @@
+[10.896s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[10.897s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=4, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0xffff94e53040>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0xffff95105f90>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0xffff95105f90>>)
+[11.374s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[11.375s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[11.375s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[11.375s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[11.375s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[11.376s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[11.377s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/yamashita/wifi_controll_ws'
+[11.377s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[11.378s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[11.379s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[11.379s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[11.380s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[11.380s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[11.381s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[11.381s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[11.381s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[11.503s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[11.503s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[11.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[11.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[11.505s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[11.506s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[11.507s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[11.507s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[11.508s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[11.509s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[11.510s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[11.511s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[11.512s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[11.512s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[11.513s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[11.514s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[11.514s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[11.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[11.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[11.516s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[11.516s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[11.517s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[11.517s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[11.518s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[11.518s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[11.519s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[11.519s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[11.519s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[11.521s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extensions ['ignore', 'ignore_ament_install']
+[11.521s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extension 'ignore'
+[11.522s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extension 'ignore_ament_install'
+[11.522s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extensions ['colcon_pkg']
+[11.523s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extension 'colcon_pkg'
+[11.523s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extensions ['colcon_meta']
+[11.524s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extension 'colcon_meta'
+[11.524s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extensions ['ros']
+[11.524s] Level 1:colcon.colcon_core.package_identification:_identify(src/controller) by extension 'ros'
+[11.543s] DEBUG:colcon.colcon_core.package_identification:Package 'src/controller' with type 'ros.ament_python' and name 'controller'
+[11.544s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[11.544s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[11.545s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[11.545s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[11.545s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[12.480s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[12.480s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[12.806s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 1 installed packages in /home/yamashita/wifi_controll_ws/install
+[12.962s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 2 installed packages in /home/yamashita/car_ws/install
+[13.132s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 301 installed packages in /opt/ros/humble
+[13.146s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[14.182s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'cmake_args' from command line to 'None'
+[14.183s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'cmake_target' from command line to 'None'
+[14.183s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[14.183s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'cmake_clean_cache' from command line to 'False'
+[14.183s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'cmake_clean_first' from command line to 'False'
+[14.184s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'cmake_force_configure' from command line to 'False'
+[14.184s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'ament_cmake_args' from command line to 'None'
+[14.184s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'catkin_cmake_args' from command line to 'None'
+[14.184s] Level 5:colcon.colcon_core.verb:set package 'controller' build argument 'catkin_skip_building_tests' from command line to 'False'
+[14.185s] DEBUG:colcon.colcon_core.verb:Building package 'controller' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/yamashita/wifi_controll_ws/build/controller', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/yamashita/wifi_controll_ws/install/controller', 'merge_install': False, 'path': '/home/yamashita/wifi_controll_ws/src/controller', 'symlink_install': False, 'test_result_base': None}
+[14.337s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[14.494s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[14.497s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/yamashita/wifi_controll_ws/src/controller' with build type 'ament_python'
+[14.498s] Level 1:colcon.colcon_core.shell:create_environment_hook('controller', 'ament_prefix_path')
+[14.675s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[14.677s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yamashita/wifi_controll_ws/install/controller/share/controller/hook/ament_prefix_path.ps1'
+[14.682s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/yamashita/wifi_controll_ws/install/controller/share/controller/hook/ament_prefix_path.dsv'
+[14.686s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yamashita/wifi_controll_ws/install/controller/share/controller/hook/ament_prefix_path.sh'
+[14.854s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[14.855s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[18.407s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/yamashita/wifi_controll_ws/src/controller'
+[18.573s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[18.573s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[23.114s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/yamashita/wifi_controll_ws/src/controller': PYTHONPATH=/home/yamashita/wifi_controll_ws/build/controller/prefix_override:/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/controller build --build-base /home/yamashita/wifi_controll_ws/build/controller/build install --record /home/yamashita/wifi_controll_ws/build/controller/install.log --single-version-externally-managed
+[26.335s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/yamashita/wifi_controll_ws/src/controller' returned '0': PYTHONPATH=/home/yamashita/wifi_controll_ws/build/controller/prefix_override:/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/controller build --build-base /home/yamashita/wifi_controll_ws/build/controller/build install --record /home/yamashita/wifi_controll_ws/build/controller/install.log --single-version-externally-managed
+[26.521s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/wifi_controll_ws/install/controller' for CMake module files
+[26.526s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/wifi_controll_ws/install/controller' for CMake config files
+[26.533s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/wifi_controll_ws/install/controller/lib'
+[26.535s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/wifi_controll_ws/install/controller/bin'
+[26.536s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/wifi_controll_ws/install/controller/lib/pkgconfig/controller.pc'
+[26.538s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/wifi_controll_ws/install/controller/lib/python3.10/site-packages'
+[26.539s] Level 1:colcon.colcon_core.shell:create_environment_hook('controller', 'pythonpath')
+[26.790s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yamashita/wifi_controll_ws/install/controller/share/controller/hook/pythonpath.ps1'
+[26.794s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/yamashita/wifi_controll_ws/install/controller/share/controller/hook/pythonpath.dsv'
+[26.797s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yamashita/wifi_controll_ws/install/controller/share/controller/hook/pythonpath.sh'
+[26.802s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/wifi_controll_ws/install/controller/bin'
+[26.803s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(controller)
+[26.962s] INFO:colcon.colcon_core.shell:Creating package script '/home/yamashita/wifi_controll_ws/install/controller/share/controller/package.ps1'
+[26.969s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/yamashita/wifi_controll_ws/install/controller/share/controller/package.dsv'
+[26.975s] INFO:colcon.colcon_core.shell:Creating package script '/home/yamashita/wifi_controll_ws/install/controller/share/controller/package.sh'
+[26.982s] INFO:colcon.colcon_core.shell:Creating package script '/home/yamashita/wifi_controll_ws/install/controller/share/controller/package.bash'
+[26.989s] INFO:colcon.colcon_core.shell:Creating package script '/home/yamashita/wifi_controll_ws/install/controller/share/controller/package.zsh'
+[26.995s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/yamashita/wifi_controll_ws/install/controller/share/colcon-core/packages/controller)
+[26.998s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[27.000s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[27.001s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[27.002s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[27.685s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.notify_send': Could not find 'notify-send'
+[27.686s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[27.688s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[27.689s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[27.698s] DEBUG:colcon.colcon_notification.desktop_notification.notify2:Failed to initialize notify2: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[27.699s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[27.858s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yamashita/wifi_controll_ws/install/local_setup.ps1'
+[27.866s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/yamashita/wifi_controll_ws/install/_local_setup_util_ps1.py'
+[27.877s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yamashita/wifi_controll_ws/install/setup.ps1'
+[28.043s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yamashita/wifi_controll_ws/install/local_setup.sh'
+[28.048s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/yamashita/wifi_controll_ws/install/_local_setup_util_sh.py'
+[28.053s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yamashita/wifi_controll_ws/install/setup.sh'
+[28.215s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yamashita/wifi_controll_ws/install/local_setup.bash'
+[28.220s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yamashita/wifi_controll_ws/install/setup.bash'
+[28.382s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yamashita/wifi_controll_ws/install/local_setup.zsh'
+[28.387s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yamashita/wifi_controll_ws/install/setup.zsh'

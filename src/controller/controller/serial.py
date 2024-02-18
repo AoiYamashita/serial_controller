@@ -18,6 +18,12 @@ class serial_indep(Node):
             a = 's'
         elif(data.data == 3):
             a = 'd'
+        elif(data.data == 4):
+            a = 'h'
+        elif(data.data == 5):
+            a = 'l'
+        elif(data.data == 6):
+            a = 'q'
         else:
             return
         self.writer.write(a.encode())
